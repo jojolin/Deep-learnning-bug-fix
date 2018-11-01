@@ -1,7 +1,7 @@
 # Deep-learnning-bug-fix
 深度学习过程中碰到的一些问题集锦
 
-## Tencent_AILab_ChineseEmbedding.tar.gz 词向量数据处理
+## Tencent_AILab_ChineseEmbedding.tar.gz 词向量数据处理（py3, py2可以做类似处理）
 由于部数据出错和unicode error无法通过以下方式加载
 ```
 from gensim.models import KeyedVectors
